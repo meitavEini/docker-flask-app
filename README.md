@@ -1,4 +1,4 @@
-# 👑 Flask Dockerized App - Gossip Girl Edition
+# 👑 Flask Dockerized App 
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/meitavEini/REPO_NAME)
 ![GitHub contributors](https://img.shields.io/github/contributors/meitavEini/REPO_NAME)
